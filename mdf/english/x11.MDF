@@ -1,0 +1,7 @@
+
+! This is the english menufile loaded by
+! the Unix version of VARKON at startup.
+
+#include "$VARKON_ROOT/mdf/english/x11.INC"
+#include "$VARKON_ROOT/mdf/english/texts.INC"
+#include "$VARKON_ROOT/mdf/english/menus.INC"

@@ -1,0 +1,7 @@
+
+! Detta är den svenska menyfil som laddas
+! av Unixversionen av VARKON vid uppstart.
+
+#include "$VARKON_ROOT/mdf/swedish/x11.INC"
+#include "$VARKON_ROOT/mdf/swedish/texter.INC"
+#include "$VARKON_ROOT/mdf/swedish/menyer.INC"
