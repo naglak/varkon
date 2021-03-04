@@ -59,7 +59,7 @@ double clipw[4];        /* Klippfönster */
 float  lastx;           /* Sista pos X */
 float  lasty;           /* Sista pos Y */
 short  rant;            /* Räknare för skickade rader */
-double actwdt;          /* Akturll linjebredd */
+extern double actwdt;          /* Akturll linjebredd */
 short  lastc;           /* Senaste kommando;
                            0=odef; -1=moveto; -2=lineto; 1=pen */
 extern int   actpen;

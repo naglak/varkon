@@ -56,7 +56,7 @@ short  lastk;           /* Sista kommado
                            0 = Övriga
                            1 = Rita
                            2 = Flytta  */
-double actwdt;          /* Aktuell linjebredd */
+extern double actwdt;          /* Aktuell linjebredd */
 
 extern double ptabp[];
 

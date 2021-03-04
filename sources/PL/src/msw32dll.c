@@ -55,7 +55,7 @@ double clipw[4];         /* Klippfönster */
 int    lastx;            /* Sista pos X */
 int    lasty;            /* Sista pos Y */
 int    actpen;           /* Aktiv Varkon-penna */
-double actwdt;           /* Aktiv Varkon-linjebredd */
+extern double actwdt;           /* Aktiv Varkon-linjebredd */
 HPEN   act_phnd;         /* Aktiv WIN32-pen */
 HBRUSH act_bhnd;         /* Aktiv WIN32-brush */
 V3MDAT sydata;           /* Dummy för ige29.c */
